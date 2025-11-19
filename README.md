@@ -1,6 +1,6 @@
 # 👋 Hola, soy Omar Pedraza
 
-"Ingeniero de software con más de 20 años de experiencia en desarrollo, integración y soporte de sistemas empresariales. Actualmente estoy actualizándome en tecnologías modernas como Spring Boot, APIs REST, microservicios, Docker y buenas prácticas de arquitectura para fortalecer mi perfil backend.
+Ingeniero de sistemas con más de 20 años de experiencia en desarrollo, integración y soporte de sistemas empresariales. Actualmente estoy actualizándome en tecnologías modernas como Spring Boot, APIs REST, microservicios, Docker y buenas prácticas de arquitectura para fortalecer mi perfil backend.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Bases de datos:** MySQL, PostgreSQL, Oracle, MongoDB
 - **Pruebas:** JUnit 5, Mockito
 - **Herramientas:** Maven, Docker, Git, Postman, JMeter, Linux
-- **Frontend / Otros:** jQuery, Bootstrap, HTML5, CSS
+- **Frontend / Otros:** jQuery, Bootstrap, HTML5, CSS, Thymeleaf
 
 ---
 
