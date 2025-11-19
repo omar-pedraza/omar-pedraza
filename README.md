@@ -1,15 +1,16 @@
 # 👋 Hola, soy Omar Pedraza
 
-Desarrollador Java con más de 20 años de experiencia en ingeniería de software, infraestructura y soluciones empresariales. Actualmente enfocado en el desarrollo backend con Spring Boot, APIs REST, seguridad, microservicios y buenas prácticas de arquitectura. Me gusta construir proyectos limpios, mantenibles y bien documentados, con enfoque en calidad y simplicidad.
+"Ingeniero de software con más de 20 años de experiencia en desarrollo, integración y soporte de sistemas empresariales. Actualmente estoy actualizándome en tecnologías modernas como Spring Boot, APIs REST, microservicios, Docker y buenas prácticas de arquitectura para fortalecer mi perfil backend.
 
 ---
 
 ## 🔧 Tecnologías y herramientas
-- **Lenguajes:** Java, JavaScript, PHP, SQL
-- **Frameworks:** Spring Boot, Spring Security, Node.js (Express)
-- **Bases de datos:** MySQL, PostgreSQL, Oracle
+- **Lenguajes:** Java SE/EE, PL/SQL, SQL, JavaScript, PHP, C++
+- **Frameworks:** Spring Boot, JSF, JSP, Servlets, Node.js, Express
+- **Bases de datos:** MySQL, PostgreSQL, Oracle, MongoDB
 - **Pruebas:** JUnit 5, Mockito
 - **Herramientas:** Maven, Docker, Git, Postman, JMeter, Linux
+- **Frontend / Otros:** jQuery, Bootstrap, HTML5, CSS
 
 ---
 
